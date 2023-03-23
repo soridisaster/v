@@ -1,2 +1,2 @@
-# v
-ким тэхён
+# osnovi_risovania
+test or
